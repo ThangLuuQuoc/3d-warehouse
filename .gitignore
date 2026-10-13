@@ -3,6 +3,5 @@ dist/
 *.log
 .DS_Store
 .vite/
-# Local tooling and reference screenshots (third-party video captures; not part of the app)
-.claude/
-ui/
+# Local Claude Code tooling (root only)
+/.claude/

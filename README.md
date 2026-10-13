@@ -2,6 +2,8 @@
 
 A 3D warehouse management dashboard that plays like a real-time strategy game. Three warehouse sites, their docks, trucks, forklifts and pallet racks are drawn procedurally with React Three Fiber, and a simulation updates them live every 2 seconds.
 
+Concept reference screenshots are in [`ui/`](ui/).
+
 ## Run
 
 ```bash
